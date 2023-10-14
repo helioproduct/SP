@@ -1,0 +1,264 @@
+F:\copy Disk_D\0. Courses\Course_Compiler\Recognising and Generating Software Systems (rag-systems)\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.csprojAssemblyReference.cache
+F:\copy Disk_D\0. Courses\Course_Compiler\Recognising and Generating Software Systems (rag-systems)\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.GeneratedMSBuildEditorConfig.editorconfig
+F:\copy Disk_D\0. Courses\Course_Compiler\Recognising and Generating Software Systems (rag-systems)\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.AssemblyInfoInputs.cache
+F:\copy Disk_D\0. Courses\Course_Compiler\Recognising and Generating Software Systems (rag-systems)\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.AssemblyInfo.cs
+F:\copy Disk_D\0. Courses\Course_Compiler\Recognising and Generating Software Systems (rag-systems)\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.csproj.CoreCompileInputs.cache
+F:\copy Disk_D\0. Courses\Course_Compiler\Recognising and Generating Software Systems (rag-systems)\RaGsys\RaGlib\bin\Debug\net5.0\RaGlib.deps.json
+F:\copy Disk_D\0. Courses\Course_Compiler\Recognising and Generating Software Systems (rag-systems)\RaGsys\RaGlib\bin\Debug\net5.0\RaGlib.dll
+F:\copy Disk_D\0. Courses\Course_Compiler\Recognising and Generating Software Systems (rag-systems)\RaGsys\RaGlib\bin\Debug\net5.0\ref\RaGlib.dll
+F:\copy Disk_D\0. Courses\Course_Compiler\Recognising and Generating Software Systems (rag-systems)\RaGsys\RaGlib\bin\Debug\net5.0\RaGlib.pdb
+F:\copy Disk_D\0. Courses\Course_Compiler\Recognising and Generating Software Systems (rag-systems)\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.dll
+F:\copy Disk_D\0. Courses\Course_Compiler\Recognising and Generating Software Systems (rag-systems)\RaGsys\RaGlib\obj\Debug\net5.0\ref\RaGlib.dll
+F:\copy Disk_D\0. Courses\Course_Compiler\Recognising and Generating Software Systems (rag-systems)\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.pdb
+D:\MYLIBRARY\0. Courses\Course_Compiler\Recognising and Generating Software Systems (rag-systems)\RaGsys\RaGlib\bin\Debug\net5.0\RaGlib.deps.json
+D:\MYLIBRARY\0. Courses\Course_Compiler\Recognising and Generating Software Systems (rag-systems)\RaGsys\RaGlib\bin\Debug\net5.0\RaGlib.dll
+D:\MYLIBRARY\0. Courses\Course_Compiler\Recognising and Generating Software Systems (rag-systems)\RaGsys\RaGlib\bin\Debug\net5.0\RaGlib.pdb
+D:\MYLIBRARY\0. Courses\Course_Compiler\Recognising and Generating Software Systems (rag-systems)\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.csproj.AssemblyReference.cache
+D:\MYLIBRARY\0. Courses\Course_Compiler\Recognising and Generating Software Systems (rag-systems)\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.GeneratedMSBuildEditorConfig.editorconfig
+D:\MYLIBRARY\0. Courses\Course_Compiler\Recognising and Generating Software Systems (rag-systems)\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.AssemblyInfoInputs.cache
+D:\MYLIBRARY\0. Courses\Course_Compiler\Recognising and Generating Software Systems (rag-systems)\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.AssemblyInfo.cs
+D:\MYLIBRARY\0. Courses\Course_Compiler\Recognising and Generating Software Systems (rag-systems)\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.csproj.CoreCompileInputs.cache
+D:\MYLIBRARY\0. Courses\Course_Compiler\Recognising and Generating Software Systems (rag-systems)\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.dll
+D:\MYLIBRARY\0. Courses\Course_Compiler\Recognising and Generating Software Systems (rag-systems)\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.pdb
+D:\MYLIBRARY\0. Courses\Course_Compiler\Recognising and Generating Software Systems (rag-systems)\RaGsys\RaGlib\obj\Debug\net5.0\ref\RaGlib.dll
+D:\MYLIBRARY\0. Courses\Course_Compiler\Recognising and Generating Software Systems (rag-systems)\RaGsys\RaGlib\bin\Debug\net5.0\ref\RaGlib.dll
+D:\MYLIBRARY\0. Courses\Course_Compiler\RaG-systems\RaGsys\RaGlib\bin\Debug\net5.0\RaGlib.deps.json
+D:\MYLIBRARY\0. Courses\Course_Compiler\RaG-systems\RaGsys\RaGlib\bin\Debug\net5.0\RaGlib.dll
+D:\MYLIBRARY\0. Courses\Course_Compiler\RaG-systems\RaGsys\RaGlib\bin\Debug\net5.0\ref\RaGlib.dll
+D:\MYLIBRARY\0. Courses\Course_Compiler\RaG-systems\RaGsys\RaGlib\bin\Debug\net5.0\RaGlib.pdb
+D:\MYLIBRARY\0. Courses\Course_Compiler\RaG-systems\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.csproj.AssemblyReference.cache
+D:\MYLIBRARY\0. Courses\Course_Compiler\RaG-systems\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.GeneratedMSBuildEditorConfig.editorconfig
+D:\MYLIBRARY\0. Courses\Course_Compiler\RaG-systems\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.AssemblyInfoInputs.cache
+D:\MYLIBRARY\0. Courses\Course_Compiler\RaG-systems\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.AssemblyInfo.cs
+D:\MYLIBRARY\0. Courses\Course_Compiler\RaG-systems\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.csproj.CoreCompileInputs.cache
+D:\MYLIBRARY\0. Courses\Course_Compiler\RaG-systems\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.dll
+D:\MYLIBRARY\0. Courses\Course_Compiler\RaG-systems\RaGsys\RaGlib\obj\Debug\net5.0\ref\RaGlib.dll
+D:\MYLIBRARY\0. Courses\Course_Compiler\RaG-systems\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.pdb
+D:\RaGsys\RaGlib\bin\Debug\net5.0\RaGlib.deps.json
+D:\RaGsys\RaGlib\bin\Debug\net5.0\RaGlib.dll
+D:\RaGsys\RaGlib\bin\Debug\net5.0\RaGlib.pdb
+D:\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.csproj.AssemblyReference.cache
+D:\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.GeneratedMSBuildEditorConfig.editorconfig
+D:\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.AssemblyInfoInputs.cache
+D:\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.AssemblyInfo.cs
+D:\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.csproj.CoreCompileInputs.cache
+D:\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.dll
+D:\RaGsys\RaGlib\obj\Debug\net5.0\refint\RaGlib.dll
+D:\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.pdb
+D:\RaGsys\RaGlib\obj\Debug\net5.0\ref\RaGlib.dll
+E:\RaGsys\RaGlib\bin\Debug\net5.0\RaGlib.deps.json
+E:\RaGsys\RaGlib\bin\Debug\net5.0\RaGlib.dll
+E:\RaGsys\RaGlib\bin\Debug\net5.0\RaGlib.pdb
+E:\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.csproj.AssemblyReference.cache
+E:\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.GeneratedMSBuildEditorConfig.editorconfig
+E:\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.AssemblyInfoInputs.cache
+E:\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.AssemblyInfo.cs
+E:\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.csproj.CoreCompileInputs.cache
+E:\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.dll
+E:\RaGsys\RaGlib\obj\Debug\net5.0\refint\RaGlib.dll
+E:\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.pdb
+E:\RaGsys\RaGlib\obj\Debug\net5.0\ref\RaGlib.dll
+E:\RaGsys 2023 v01\RaGlib\bin\Debug\net5.0\RaGlib.deps.json
+E:\RaGsys 2023 v01\RaGlib\bin\Debug\net5.0\RaGlib.dll
+E:\RaGsys 2023 v01\RaGlib\bin\Debug\net5.0\RaGlib.pdb
+E:\RaGsys 2023 v01\RaGlib\obj\Debug\net5.0\RaGlib.csproj.AssemblyReference.cache
+E:\RaGsys 2023 v01\RaGlib\obj\Debug\net5.0\RaGlib.GeneratedMSBuildEditorConfig.editorconfig
+E:\RaGsys 2023 v01\RaGlib\obj\Debug\net5.0\RaGlib.AssemblyInfoInputs.cache
+E:\RaGsys 2023 v01\RaGlib\obj\Debug\net5.0\RaGlib.AssemblyInfo.cs
+E:\RaGsys 2023 v01\RaGlib\obj\Debug\net5.0\RaGlib.csproj.CoreCompileInputs.cache
+E:\RaGsys 2023 v01\RaGlib\obj\Debug\net5.0\RaGlib.dll
+E:\RaGsys 2023 v01\RaGlib\obj\Debug\net5.0\refint\RaGlib.dll
+E:\RaGsys 2023 v01\RaGlib\obj\Debug\net5.0\RaGlib.pdb
+E:\RaGsys 2023 v01\RaGlib\obj\Debug\net5.0\ref\RaGlib.dll
+C:\Users\stud\Desktop\RaGsys 2023 v02\RaGlib\bin\Debug\net5.0\RaGlib.deps.json
+C:\Users\stud\Desktop\RaGsys 2023 v02\RaGlib\bin\Debug\net5.0\RaGlib.dll
+C:\Users\stud\Desktop\RaGsys 2023 v02\RaGlib\bin\Debug\net5.0\RaGlib.pdb
+C:\Users\stud\Desktop\RaGsys 2023 v02\RaGlib\obj\Debug\net5.0\RaGlib.csproj.AssemblyReference.cache
+C:\Users\stud\Desktop\RaGsys 2023 v02\RaGlib\obj\Debug\net5.0\RaGlib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stud\Desktop\RaGsys 2023 v02\RaGlib\obj\Debug\net5.0\RaGlib.AssemblyInfoInputs.cache
+C:\Users\stud\Desktop\RaGsys 2023 v02\RaGlib\obj\Debug\net5.0\RaGlib.AssemblyInfo.cs
+C:\Users\stud\Desktop\RaGsys 2023 v02\RaGlib\obj\Debug\net5.0\RaGlib.csproj.CoreCompileInputs.cache
+C:\Users\stud\Desktop\RaGsys 2023 v02\RaGlib\obj\Debug\net5.0\RaGlib.dll
+C:\Users\stud\Desktop\RaGsys 2023 v02\RaGlib\obj\Debug\net5.0\refint\RaGlib.dll
+C:\Users\stud\Desktop\RaGsys 2023 v02\RaGlib\obj\Debug\net5.0\RaGlib.pdb
+C:\Users\stud\Desktop\RaGsys 2023 v02\RaGlib\obj\Debug\net5.0\ref\RaGlib.dll
+C:\Users\stud\Desktop\RaGsys\RaGsys\RaGlib\bin\Debug\net5.0\RaGlib.deps.json
+C:\Users\stud\Desktop\RaGsys\RaGsys\RaGlib\bin\Debug\net5.0\RaGlib.dll
+C:\Users\stud\Desktop\RaGsys\RaGsys\RaGlib\bin\Debug\net5.0\RaGlib.pdb
+C:\Users\stud\Desktop\RaGsys\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.csproj.AssemblyReference.cache
+C:\Users\stud\Desktop\RaGsys\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stud\Desktop\RaGsys\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.AssemblyInfoInputs.cache
+C:\Users\stud\Desktop\RaGsys\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.AssemblyInfo.cs
+C:\Users\stud\Desktop\RaGsys\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.csproj.CoreCompileInputs.cache
+C:\Users\stud\Desktop\RaGsys\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.dll
+C:\Users\stud\Desktop\RaGsys\RaGsys\RaGlib\obj\Debug\net5.0\refint\RaGlib.dll
+C:\Users\stud\Desktop\RaGsys\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.pdb
+C:\Users\stud\Desktop\RaGsys\RaGsys\RaGlib\obj\Debug\net5.0\ref\RaGlib.dll
+C:\Users\stud\Desktop\RaGsys 2023 v03\RaGsys\RaGlib\bin\Debug\net5.0\RaGlib.deps.json
+C:\Users\stud\Desktop\RaGsys 2023 v03\RaGsys\RaGlib\bin\Debug\net5.0\RaGlib.dll
+C:\Users\stud\Desktop\RaGsys 2023 v03\RaGsys\RaGlib\bin\Debug\net5.0\RaGlib.pdb
+C:\Users\stud\Desktop\RaGsys 2023 v03\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.csproj.AssemblyReference.cache
+C:\Users\stud\Desktop\RaGsys 2023 v03\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stud\Desktop\RaGsys 2023 v03\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.AssemblyInfoInputs.cache
+C:\Users\stud\Desktop\RaGsys 2023 v03\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.AssemblyInfo.cs
+C:\Users\stud\Desktop\RaGsys 2023 v03\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.csproj.CoreCompileInputs.cache
+C:\Users\stud\Desktop\RaGsys 2023 v03\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.dll
+C:\Users\stud\Desktop\RaGsys 2023 v03\RaGsys\RaGlib\obj\Debug\net5.0\refint\RaGlib.dll
+C:\Users\stud\Desktop\RaGsys 2023 v03\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.pdb
+C:\Users\stud\Desktop\RaGsys 2023 v03\RaGsys\RaGlib\obj\Debug\net5.0\ref\RaGlib.dll
+C:\Users\stud\Desktop\RaGsys — копия\RaGsys\RaGlib\bin\Debug\net5.0\RaGlib.deps.json
+C:\Users\stud\Desktop\RaGsys — копия\RaGsys\RaGlib\bin\Debug\net5.0\RaGlib.dll
+C:\Users\stud\Desktop\RaGsys — копия\RaGsys\RaGlib\bin\Debug\net5.0\RaGlib.pdb
+C:\Users\stud\Desktop\RaGsys — копия\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.csproj.AssemblyReference.cache
+C:\Users\stud\Desktop\RaGsys — копия\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stud\Desktop\RaGsys — копия\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.AssemblyInfoInputs.cache
+C:\Users\stud\Desktop\RaGsys — копия\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.AssemblyInfo.cs
+C:\Users\stud\Desktop\RaGsys — копия\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.csproj.CoreCompileInputs.cache
+C:\Users\stud\Desktop\RaGsys — копия\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.dll
+C:\Users\stud\Desktop\RaGsys — копия\RaGsys\RaGlib\obj\Debug\net5.0\refint\RaGlib.dll
+C:\Users\stud\Desktop\RaGsys — копия\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.pdb
+C:\Users\stud\Desktop\RaGsys — копия\RaGsys\RaGlib\obj\Debug\net5.0\ref\RaGlib.dll
+C:\Users\stud\Desktop\RaGsys — копия — копия\RaGsys\RaGlib\bin\Debug\net5.0\RaGlib.deps.json
+C:\Users\stud\Desktop\RaGsys — копия — копия\RaGsys\RaGlib\bin\Debug\net5.0\RaGlib.dll
+C:\Users\stud\Desktop\RaGsys — копия — копия\RaGsys\RaGlib\bin\Debug\net5.0\RaGlib.pdb
+C:\Users\stud\Desktop\RaGsys — копия — копия\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.csproj.AssemblyReference.cache
+C:\Users\stud\Desktop\RaGsys — копия — копия\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stud\Desktop\RaGsys — копия — копия\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.AssemblyInfoInputs.cache
+C:\Users\stud\Desktop\RaGsys — копия — копия\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.AssemblyInfo.cs
+C:\Users\stud\Desktop\RaGsys — копия — копия\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.csproj.CoreCompileInputs.cache
+C:\Users\stud\Desktop\RaGsys — копия — копия\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.dll
+C:\Users\stud\Desktop\RaGsys — копия — копия\RaGsys\RaGlib\obj\Debug\net5.0\refint\RaGlib.dll
+C:\Users\stud\Desktop\RaGsys — копия — копия\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.pdb
+C:\Users\stud\Desktop\RaGsys — копия — копия\RaGsys\RaGlib\obj\Debug\net5.0\ref\RaGlib.dll
+C:\Users\stud\Desktop\RaGsys v0.4\RaGsys\RaGlib\bin\Debug\net5.0\RaGlib.deps.json
+C:\Users\stud\Desktop\RaGsys v0.4\RaGsys\RaGlib\bin\Debug\net5.0\RaGlib.dll
+C:\Users\stud\Desktop\RaGsys v0.4\RaGsys\RaGlib\bin\Debug\net5.0\RaGlib.pdb
+C:\Users\stud\Desktop\RaGsys v0.4\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.csproj.AssemblyReference.cache
+C:\Users\stud\Desktop\RaGsys v0.4\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stud\Desktop\RaGsys v0.4\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.AssemblyInfoInputs.cache
+C:\Users\stud\Desktop\RaGsys v0.4\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.AssemblyInfo.cs
+C:\Users\stud\Desktop\RaGsys v0.4\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.csproj.CoreCompileInputs.cache
+C:\Users\stud\Desktop\RaGsys v0.4\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.dll
+C:\Users\stud\Desktop\RaGsys v0.4\RaGsys\RaGlib\obj\Debug\net5.0\refint\RaGlib.dll
+C:\Users\stud\Desktop\RaGsys v0.4\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.pdb
+C:\Users\stud\Desktop\RaGsys v0.4\RaGsys\RaGlib\obj\Debug\net5.0\ref\RaGlib.dll
+C:\Users\stud\Desktop\RaGsys v0.4 — копия\RaGsys\RaGlib\bin\Debug\net5.0\RaGlib.deps.json
+C:\Users\stud\Desktop\RaGsys v0.4 — копия\RaGsys\RaGlib\bin\Debug\net5.0\RaGlib.dll
+C:\Users\stud\Desktop\RaGsys v0.4 — копия\RaGsys\RaGlib\bin\Debug\net5.0\RaGlib.pdb
+C:\Users\stud\Desktop\RaGsys v0.4 — копия\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.csproj.AssemblyReference.cache
+C:\Users\stud\Desktop\RaGsys v0.4 — копия\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stud\Desktop\RaGsys v0.4 — копия\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.AssemblyInfoInputs.cache
+C:\Users\stud\Desktop\RaGsys v0.4 — копия\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.AssemblyInfo.cs
+C:\Users\stud\Desktop\RaGsys v0.4 — копия\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.csproj.CoreCompileInputs.cache
+C:\Users\stud\Desktop\RaGsys v0.4 — копия\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.dll
+C:\Users\stud\Desktop\RaGsys v0.4 — копия\RaGsys\RaGlib\obj\Debug\net5.0\refint\RaGlib.dll
+C:\Users\stud\Desktop\RaGsys v0.4 — копия\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.pdb
+C:\Users\stud\Desktop\RaGsys v0.4 — копия\RaGsys\RaGlib\obj\Debug\net5.0\ref\RaGlib.dll
+C:\Users\stud\Desktop\RaGsys v0.4 — копия434324\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.csproj.AssemblyReference.cache
+C:\Users\stud\Desktop\RaGsys v0.4 — копия434324\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stud\Desktop\RaGsys v0.4 — копия434324\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.AssemblyInfoInputs.cache
+C:\Users\stud\Desktop\RaGsys v0.4 — копия434324\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.AssemblyInfo.cs
+C:\Users\stud\Desktop\RaGsys v0.4 — копия434324\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.csproj.CoreCompileInputs.cache
+C:\Users\stud\Desktop\RaGsys v0.4 — копия434324\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.dll
+C:\Users\stud\Desktop\RaGsys v0.4 — копия434324\RaGsys\RaGlib\obj\Debug\net5.0\refint\RaGlib.dll
+C:\Users\stud\Desktop\RaGsys v0.4 — копия434324\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.pdb
+C:\Users\stud\Desktop\RaGsys v0.4 — копия434324\RaGsys\RaGlib\bin\Debug\net5.0\RaGlib.deps.json
+C:\Users\stud\Desktop\RaGsys v0.4 — копия434324\RaGsys\RaGlib\bin\Debug\net5.0\RaGlib.dll
+C:\Users\stud\Desktop\RaGsys v0.4 — копия434324\RaGsys\RaGlib\bin\Debug\net5.0\RaGlib.pdb
+C:\Users\stud\Desktop\RaGsys v0.4 — копия434324\RaGsys\RaGlib\obj\Debug\net5.0\ref\RaGlib.dll
+C:\RaGsys\RaGlib\bin\Debug\net5.0\RaGlib.deps.json
+C:\RaGsys\RaGlib\bin\Debug\net5.0\RaGlib.dll
+C:\RaGsys\RaGlib\bin\Debug\net5.0\RaGlib.pdb
+C:\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.csproj.AssemblyReference.cache
+C:\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.GeneratedMSBuildEditorConfig.editorconfig
+C:\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.AssemblyInfoInputs.cache
+C:\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.AssemblyInfo.cs
+C:\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.csproj.CoreCompileInputs.cache
+C:\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.dll
+C:\RaGsys\RaGlib\obj\Debug\net5.0\refint\RaGlib.dll
+C:\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.pdb
+C:\RaGsys\RaGlib\obj\Debug\net5.0\ref\RaGlib.dll
+C:\Users\stud\Desktop\RaGsys v0.5\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.csproj.AssemblyReference.cache
+C:\Users\stud\Desktop\RaGsys v0.5\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stud\Desktop\RaGsys v0.5\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.AssemblyInfoInputs.cache
+C:\Users\stud\Desktop\RaGsys v0.5\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.AssemblyInfo.cs
+C:\Users\stud\Desktop\RaGsys v0.5\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.csproj.CoreCompileInputs.cache
+C:\Users\stud\Desktop\RaGsys v0.5\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.dll
+C:\Users\stud\Desktop\RaGsys v0.5\RaGsys\RaGlib\obj\Debug\net5.0\refint\RaGlib.dll
+C:\Users\stud\Desktop\RaGsys v0.5\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.pdb
+C:\Users\stud\Desktop\RaGsys v0.5\RaGsys\RaGlib\bin\Debug\net5.0\RaGlib.deps.json
+C:\Users\stud\Desktop\RaGsys v0.5\RaGsys\RaGlib\bin\Debug\net5.0\RaGlib.dll
+C:\Users\stud\Desktop\RaGsys v0.5\RaGsys\RaGlib\bin\Debug\net5.0\RaGlib.pdb
+C:\Users\stud\Desktop\RaGsys v0.5\RaGsys\RaGlib\obj\Debug\net5.0\ref\RaGlib.dll
+C:\Users\stud\Desktop\RaGsys v0.5 — копия\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.csproj.AssemblyReference.cache
+C:\Users\stud\Desktop\RaGsys v0.5 — копия\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stud\Desktop\RaGsys v0.5 — копия\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.AssemblyInfoInputs.cache
+C:\Users\stud\Desktop\RaGsys v0.5 — копия\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.AssemblyInfo.cs
+C:\Users\stud\Desktop\RaGsys v0.5 — копия\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.csproj.CoreCompileInputs.cache
+C:\Users\stud\Desktop\RaGsys v0.5 — копия\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.dll
+C:\Users\stud\Desktop\RaGsys v0.5 — копия\RaGsys\RaGlib\obj\Debug\net5.0\refint\RaGlib.dll
+C:\Users\stud\Desktop\RaGsys v0.5 — копия\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.pdb
+C:\Users\stud\Desktop\RaGsys v0.5 — копия\RaGsys\RaGlib\bin\Debug\net5.0\RaGlib.deps.json
+C:\Users\stud\Desktop\RaGsys v0.5 — копия\RaGsys\RaGlib\bin\Debug\net5.0\RaGlib.dll
+C:\Users\stud\Desktop\RaGsys v0.5 — копия\RaGsys\RaGlib\bin\Debug\net5.0\RaGlib.pdb
+C:\Users\stud\Desktop\RaGsys v0.5 — копия\RaGsys\RaGlib\obj\Debug\net5.0\ref\RaGlib.dll
+C:\Users\stud\Desktop\RaGsys  2023v0.6\RaGsys\RaGlib\bin\Debug\net5.0\RaGlib.deps.json
+C:\Users\stud\Desktop\RaGsys  2023v0.6\RaGsys\RaGlib\bin\Debug\net5.0\RaGlib.dll
+C:\Users\stud\Desktop\RaGsys  2023v0.6\RaGsys\RaGlib\bin\Debug\net5.0\RaGlib.pdb
+C:\Users\stud\Desktop\RaGsys  2023v0.6\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.csproj.AssemblyReference.cache
+C:\Users\stud\Desktop\RaGsys  2023v0.6\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stud\Desktop\RaGsys  2023v0.6\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.AssemblyInfoInputs.cache
+C:\Users\stud\Desktop\RaGsys  2023v0.6\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.AssemblyInfo.cs
+C:\Users\stud\Desktop\RaGsys  2023v0.6\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.csproj.CoreCompileInputs.cache
+C:\Users\stud\Desktop\RaGsys  2023v0.6\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.dll
+C:\Users\stud\Desktop\RaGsys  2023v0.6\RaGsys\RaGlib\obj\Debug\net5.0\refint\RaGlib.dll
+C:\Users\stud\Desktop\RaGsys  2023v0.6\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.pdb
+C:\Users\stud\Desktop\RaGsys  2023v0.6\RaGsys\RaGlib\obj\Debug\net5.0\ref\RaGlib.dll
+C:\Users\stud\Desktop\RaGsys  2023v0.7\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.csproj.AssemblyReference.cache
+C:\Users\stud\Desktop\RaGsys  2023v0.7\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stud\Desktop\RaGsys  2023v0.7\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.AssemblyInfoInputs.cache
+C:\Users\stud\Desktop\RaGsys  2023v0.7\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.AssemblyInfo.cs
+C:\Users\stud\Desktop\RaGsys  2023v0.7\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.csproj.CoreCompileInputs.cache
+C:\Users\stud\Desktop\RaGsys  2023v0.7\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.dll
+C:\Users\stud\Desktop\RaGsys  2023v0.7\RaGsys\RaGlib\obj\Debug\net5.0\refint\RaGlib.dll
+C:\Users\stud\Desktop\RaGsys  2023v0.7\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.pdb
+C:\Users\stud\Desktop\RaGsys  2023v0.7\RaGsys\RaGlib\bin\Debug\net5.0\RaGlib.deps.json
+C:\Users\stud\Desktop\RaGsys  2023v0.7\RaGsys\RaGlib\bin\Debug\net5.0\RaGlib.dll
+C:\Users\stud\Desktop\RaGsys  2023v0.7\RaGsys\RaGlib\bin\Debug\net5.0\RaGlib.pdb
+C:\Users\stud\Desktop\RaGsys  2023v0.7\RaGsys\RaGlib\obj\Debug\net5.0\ref\RaGlib.dll
+C:\Users\stud\Desktop\RaGsys  2023v0.8\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.csproj.AssemblyReference.cache
+C:\Users\stud\Desktop\RaGsys  2023v0.8\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stud\Desktop\RaGsys  2023v0.8\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.AssemblyInfoInputs.cache
+C:\Users\stud\Desktop\RaGsys  2023v0.8\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.AssemblyInfo.cs
+C:\Users\stud\Desktop\RaGsys  2023v0.8\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.csproj.CoreCompileInputs.cache
+C:\Users\stud\Desktop\RaGsys  2023v0.8\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.dll
+C:\Users\stud\Desktop\RaGsys  2023v0.8\RaGsys\RaGlib\obj\Debug\net5.0\refint\RaGlib.dll
+C:\Users\stud\Desktop\RaGsys  2023v0.8\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.pdb
+C:\Users\stud\Desktop\RaGsys  2023v0.8\RaGsys\RaGlib\bin\Debug\net5.0\RaGlib.deps.json
+C:\Users\stud\Desktop\RaGsys  2023v0.8\RaGsys\RaGlib\bin\Debug\net5.0\RaGlib.dll
+C:\Users\stud\Desktop\RaGsys  2023v0.8\RaGsys\RaGlib\bin\Debug\net5.0\RaGlib.pdb
+C:\Users\stud\Desktop\RaGsys  2023v0.8\RaGsys\RaGlib\obj\Debug\net5.0\ref\RaGlib.dll
+E:\copy Disk_D\0. Courses\Course_Compiler\RaG-systems\RaGsys  2023v0.9\RaGsys\RaGlib\bin\Debug\net5.0\RaGlib.deps.json
+E:\copy Disk_D\0. Courses\Course_Compiler\RaG-systems\RaGsys  2023v0.9\RaGsys\RaGlib\bin\Debug\net5.0\RaGlib.dll
+E:\copy Disk_D\0. Courses\Course_Compiler\RaG-systems\RaGsys  2023v0.9\RaGsys\RaGlib\bin\Debug\net5.0\RaGlib.pdb
+E:\copy Disk_D\0. Courses\Course_Compiler\RaG-systems\RaGsys  2023v0.9\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.csproj.AssemblyReference.cache
+E:\copy Disk_D\0. Courses\Course_Compiler\RaG-systems\RaGsys  2023v0.9\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.GeneratedMSBuildEditorConfig.editorconfig
+E:\copy Disk_D\0. Courses\Course_Compiler\RaG-systems\RaGsys  2023v0.9\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.AssemblyInfoInputs.cache
+E:\copy Disk_D\0. Courses\Course_Compiler\RaG-systems\RaGsys  2023v0.9\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.AssemblyInfo.cs
+E:\copy Disk_D\0. Courses\Course_Compiler\RaG-systems\RaGsys  2023v0.9\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.csproj.CoreCompileInputs.cache
+E:\copy Disk_D\0. Courses\Course_Compiler\RaG-systems\RaGsys  2023v0.9\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.dll
+E:\copy Disk_D\0. Courses\Course_Compiler\RaG-systems\RaGsys  2023v0.9\RaGsys\RaGlib\obj\Debug\net5.0\refint\RaGlib.dll
+E:\copy Disk_D\0. Courses\Course_Compiler\RaG-systems\RaGsys  2023v0.9\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.pdb
+E:\copy Disk_D\0. Courses\Course_Compiler\RaG-systems\RaGsys  2023v0.9\RaGsys\RaGlib\obj\Debug\net5.0\ref\RaGlib.dll
+C:\Users\stud\Desktop\Системы программирования\RaGsys  2023v0.9\RaGsys\RaGlib\bin\Debug\net5.0\RaGlib.deps.json
+C:\Users\stud\Desktop\Системы программирования\RaGsys  2023v0.9\RaGsys\RaGlib\bin\Debug\net5.0\RaGlib.dll
+C:\Users\stud\Desktop\Системы программирования\RaGsys  2023v0.9\RaGsys\RaGlib\bin\Debug\net5.0\RaGlib.pdb
+C:\Users\stud\Desktop\Системы программирования\RaGsys  2023v0.9\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.csproj.AssemblyReference.cache
+C:\Users\stud\Desktop\Системы программирования\RaGsys  2023v0.9\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stud\Desktop\Системы программирования\RaGsys  2023v0.9\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.AssemblyInfoInputs.cache
+C:\Users\stud\Desktop\Системы программирования\RaGsys  2023v0.9\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.AssemblyInfo.cs
+C:\Users\stud\Desktop\Системы программирования\RaGsys  2023v0.9\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.csproj.CoreCompileInputs.cache
+C:\Users\stud\Desktop\Системы программирования\RaGsys  2023v0.9\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.dll
+C:\Users\stud\Desktop\Системы программирования\RaGsys  2023v0.9\RaGsys\RaGlib\obj\Debug\net5.0\refint\RaGlib.dll
+C:\Users\stud\Desktop\Системы программирования\RaGsys  2023v0.9\RaGsys\RaGlib\obj\Debug\net5.0\RaGlib.pdb
+C:\Users\stud\Desktop\Системы программирования\RaGsys  2023v0.9\RaGsys\RaGlib\obj\Debug\net5.0\ref\RaGlib.dll

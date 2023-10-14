@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "uVAA0bPmRFdyWLkd8fcqSl/U/CSVi0a2qSOi95vGb7Ugr26fx6pxSKUMDTprtJ77OTPCq21TkSqFSJqIyzkklQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\stud\\Desktop\\Системы программирования\\RaGsys  2023v0.9\\RaGsys\\OperationsLib\\OperationsLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\stud\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\stud\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\stud\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

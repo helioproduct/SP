@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "SBGVTlOG8WUietaCqxUdAouYAHlOqUF0pRO3RekY5vJ1U20f6Ra2WdqwcPDHqrFgE5NhFRpMe5FN/p2435fX4Q==",
+  "success": true,
+  "projectFilePath": "/Users/helio/Desktop/RaGsys/RaGlib/RaGlib.csproj",
+  "expectedPackageFiles": [
+    "/Users/helio/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/helio/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
